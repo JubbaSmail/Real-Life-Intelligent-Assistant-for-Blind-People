@@ -1,0 +1,11 @@
+S
+Right:169
+Left:169
+Right:166
+Forward:177
+Left:90
+Forward:180
+Left:169
+Forward:180
+Forward:180
+E

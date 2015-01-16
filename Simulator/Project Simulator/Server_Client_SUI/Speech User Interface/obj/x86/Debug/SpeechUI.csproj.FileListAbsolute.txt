@@ -1,0 +1,22 @@
+D:\IMLJH\My Dropbox\Senior Project\Software\All in a Nutshell\Server_Client_SUI\Speech User Interface\bin\Debug\SpeechUI.exe
+D:\IMLJH\My Dropbox\Senior Project\Software\All in a Nutshell\Server_Client_SUI\Speech User Interface\bin\Debug\SpeechUI.pdb
+D:\IMLJH\My Dropbox\Senior Project\Software\All in a Nutshell\Server_Client_SUI\Speech User Interface\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\IMLJH\My Dropbox\Senior Project\Software\All in a Nutshell\Server_Client_SUI\Speech User Interface\obj\x86\Debug\SpeechUI.exe
+D:\IMLJH\My Dropbox\Senior Project\Software\All in a Nutshell\Server_Client_SUI\Speech User Interface\obj\x86\Debug\SpeechUI.pdb
+D:\IMLJH\My Dropbox\Senior Project\Software\All in a Nutshell\Simulator 2\Server_Client_SUI\Speech User Interface\bin\Debug\SpeechUI.exe
+D:\IMLJH\My Dropbox\Senior Project\Software\All in a Nutshell\Simulator 2\Server_Client_SUI\Speech User Interface\bin\Debug\SpeechUI.pdb
+D:\IMLJH\My Dropbox\Senior Project\Software\All in a Nutshell\Simulator 2\Server_Client_SUI\Speech User Interface\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\IMLJH\My Dropbox\Senior Project\Software\All in a Nutshell\Simulator 2\Server_Client_SUI\Speech User Interface\obj\x86\Debug\SpeechUI.exe
+D:\IMLJH\My Dropbox\Senior Project\Software\All in a Nutshell\Simulator 2\Server_Client_SUI\Speech User Interface\obj\x86\Debug\SpeechUI.pdb
+C:\Users\IMLJH\Desktop\Fekra\All in a Nutshell\Simulator 2\Server_Client_SUI\Speech User Interface\obj\x86\Debug\SpeechUI.exe
+C:\Users\IMLJH\Desktop\Fekra\All in a Nutshell\Simulator 2\Server_Client_SUI\Speech User Interface\obj\x86\Debug\SpeechUI.pdb
+C:\Users\IMLJH\Desktop\Fekra\All in a Nutshell\Simulator 2\Server_Client_SUI\Speech User Interface\bin\Debug\SpeechUI.exe
+C:\Users\IMLJH\Desktop\Fekra\All in a Nutshell\Simulator 2\Server_Client_SUI\Speech User Interface\bin\Debug\SpeechUI.pdb
+C:\Users\IMLJH\Desktop\Fekra\All in a Nutshell\Simulator 2\Server_Client_SUI\Speech User Interface\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\IMLJH\Desktop\Fekra\Software\Simulator\Server_Client_SUI\Speech User Interface\obj\x86\Debug\SpeechUI.exe
+C:\Users\IMLJH\Desktop\Fekra\Software\Simulator\Server_Client_SUI\Speech User Interface\obj\x86\Debug\SpeechUI.pdb
+C:\Users\IMLJH\Desktop\Fekra\Software\Simulator\Server_Client_SUI\Speech User Interface\bin\Debug\SpeechUI.exe
+C:\Users\IMLJH\Desktop\Fekra\Software\Simulator\Server_Client_SUI\Speech User Interface\bin\Debug\SpeechUI.pdb
+C:\Users\IMLJH\Desktop\Fekra\Software\Simulator\Server_Client_SUI\Speech User Interface\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\IMLJH\Desktop\Fekra\Software\Project Simulator\Server_Client_SUI\Speech User Interface\obj\x86\Debug\SpeechUI.exe
+C:\Users\IMLJH\Desktop\Fekra\Software\Project Simulator\Server_Client_SUI\Speech User Interface\obj\x86\Debug\SpeechUI.pdb
