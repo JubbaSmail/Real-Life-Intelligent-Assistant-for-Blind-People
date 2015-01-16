@@ -1,0 +1,15 @@
+S
+Forward:180
+Left:160
+Left:139
+Forward:176
+Left:152
+Left:171
+Left:147
+Left:158
+Forward:180
+Left:135
+Left:169
+Forward:180
+Right:169
+E

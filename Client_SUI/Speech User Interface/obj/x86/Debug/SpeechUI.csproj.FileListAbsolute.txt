@@ -1,0 +1,25 @@
+D:\IMLJH\My Dropbox\Senior Project\Software\All in a Nutshell\Server_Client_SUI\Speech User Interface\bin\Debug\SpeechUI.exe
+D:\IMLJH\My Dropbox\Senior Project\Software\All in a Nutshell\Server_Client_SUI\Speech User Interface\bin\Debug\SpeechUI.pdb
+D:\IMLJH\My Dropbox\Senior Project\Software\All in a Nutshell\Server_Client_SUI\Speech User Interface\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\IMLJH\My Dropbox\Senior Project\Software\All in a Nutshell\Server_Client_SUI\Speech User Interface\obj\x86\Debug\SpeechUI.exe
+D:\IMLJH\My Dropbox\Senior Project\Software\All in a Nutshell\Server_Client_SUI\Speech User Interface\obj\x86\Debug\SpeechUI.pdb
+D:\IMLJH\My Dropbox\Senior Project\Software\All in a Nutshell\Real Life\Client_SUI\Speech User Interface\bin\Debug\SpeechUI.exe
+D:\IMLJH\My Dropbox\Senior Project\Software\All in a Nutshell\Real Life\Client_SUI\Speech User Interface\bin\Debug\SpeechUI.pdb
+D:\IMLJH\My Dropbox\Senior Project\Software\All in a Nutshell\Real Life\Client_SUI\Speech User Interface\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\IMLJH\My Dropbox\Senior Project\Software\All in a Nutshell\Real Life\Client_SUI\Speech User Interface\obj\x86\Debug\SpeechUI.exe
+D:\IMLJH\My Dropbox\Senior Project\Software\All in a Nutshell\Real Life\Client_SUI\Speech User Interface\obj\x86\Debug\SpeechUI.pdb
+C:\Users\Fofo\Dropbox\Senior Project\Software\All in a Nutshell\Real Life\Client_SUI\Speech User Interface\bin\Debug\SpeechUI.exe
+C:\Users\Fofo\Dropbox\Senior Project\Software\All in a Nutshell\Real Life\Client_SUI\Speech User Interface\bin\Debug\SpeechUI.pdb
+C:\Users\Fofo\Dropbox\Senior Project\Software\All in a Nutshell\Real Life\Client_SUI\Speech User Interface\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Fofo\Dropbox\Senior Project\Software\All in a Nutshell\Real Life\Client_SUI\Speech User Interface\obj\x86\Debug\SpeechUI.exe
+C:\Users\Fofo\Dropbox\Senior Project\Software\All in a Nutshell\Real Life\Client_SUI\Speech User Interface\obj\x86\Debug\SpeechUI.pdb
+D:\IMLJH\My Dropbox\Senior Project\Software\All in a Nutshell\Real Life 4\Client_SUI\Speech User Interface\obj\x86\Debug\SpeechUI.exe
+D:\IMLJH\My Dropbox\Senior Project\Software\All in a Nutshell\Real Life 4\Client_SUI\Speech User Interface\obj\x86\Debug\SpeechUI.pdb
+D:\IMLJH\My Dropbox\Senior Project\Software\All in a Nutshell\Real Life 4\Client_SUI\Speech User Interface\bin\Debug\SpeechUI.exe
+D:\IMLJH\My Dropbox\Senior Project\Software\All in a Nutshell\Real Life 4\Client_SUI\Speech User Interface\bin\Debug\SpeechUI.pdb
+D:\IMLJH\My Dropbox\Senior Project\Software\All in a Nutshell\Real Life 4\Client_SUI\Speech User Interface\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\IMLJH\Desktop\Fekra\All in a Nutshell\Real Life 4\Client_SUI\Speech User Interface\obj\x86\Debug\SpeechUI.exe
+C:\Users\IMLJH\Desktop\Fekra\All in a Nutshell\Real Life 4\Client_SUI\Speech User Interface\obj\x86\Debug\SpeechUI.pdb
+C:\Users\IMLJH\Desktop\Fekra\All in a Nutshell\Real Life 4\Client_SUI\Speech User Interface\bin\Debug\SpeechUI.exe
+C:\Users\IMLJH\Desktop\Fekra\All in a Nutshell\Real Life 4\Client_SUI\Speech User Interface\bin\Debug\SpeechUI.pdb
+C:\Users\IMLJH\Desktop\Fekra\All in a Nutshell\Real Life 4\Client_SUI\Speech User Interface\obj\x86\Debug\ResolveAssemblyReference.cache
