@@ -1,2 +1,4 @@
 # Real Life Intelligent Assistant for Blind People
 Humans depend on five senses to interact with the world around them. Any defect in one of these senses would affect this ability of interaction. Since the sight is the most essential sense, Losing it or even getting a mild impairment can cause dramatic changes in life style. Therefore blind people have always suffered trying to adapt to everyday duties and even accomplishing as to what is considered by a normal person simple tasks; especially when the person was not born with this impairment. In this applied research we developed an integrated system to support and assist blind people in mobility and communication. The research will also discuss those two fields and it will provide a survey showing the latest studies and applications used to help blind people in real life.
+for more info please visit:
+https://imljh.herokuapp.com//projects/RealLifeIntelligentAssistantforBlindPeople/index.xml
